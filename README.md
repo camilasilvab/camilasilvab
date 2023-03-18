@@ -10,3 +10,5 @@ const camisilvita = {
     animals : ["cats", "cats", "more cats" ]
 };
 ```
+
+This is my GitHub profile where I share my projects so you can take a look to my code and to what I've been creating.
