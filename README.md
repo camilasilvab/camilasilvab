@@ -11,3 +11,13 @@ const camisilvita = {
 ```
 
 This is my GitHub profile where I share my projects so you can take a look to my code and to what I've been creating.
+
+My most used commands
+
+| Commands |                              Desciption                                |
+| -------- | ---------------------------------------------------------------------- |
+|    cd    |   Change Directory                                                     |
+|    ls    |   List all the contents of the specified directory                     |
+|   mkdir  |   Make directory                                                       |
+|   pwd    |   Print Working Directory                                              |          
+|   Clear  |   Clear the Terminal screen                                            |
