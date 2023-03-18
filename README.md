@@ -1,4 +1,4 @@
-### 👋 Hey everyone, I'm Camila Silva 👋
+## 👋 Hey everyone, I'm Camila Silva 👋
 
 I'm a Frontend developer and currently learning more about Fullstack Development
 
@@ -12,7 +12,7 @@ const camisilvita = {
 
 This is my GitHub profile where I share my projects so you can take a look to my code and to what I've been creating.
 
-My most used commands
+### My most used commands
 
 | Commands |                              Desciption                                |
 | -------- | ---------------------------------------------------------------------- |
