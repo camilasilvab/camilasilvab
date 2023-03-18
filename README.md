@@ -6,8 +6,7 @@ I'm a Frontend developer and currently learning more about Fullstack Development
 const camisilvita = {
     pronouns: "She" | "Her",
     code: ["Javascript", "html", "css", "React"],
-    askMeAbout: ["web dev", "tech"],
-    animals : ["cats", "cats", "more cats" ]
+    askMeAbout: ["web dev", "games", "cats"],
 };
 ```
 
