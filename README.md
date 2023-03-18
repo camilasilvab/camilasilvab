@@ -7,5 +7,6 @@ const camisilvita = {
     pronouns: "She" | "Her",
     code: ["Javascript", "html", "css", "React"],
     askMeAbout: ["web dev", "tech"],
+    animals : [cats, cats, more cats ]
 };
 ```
